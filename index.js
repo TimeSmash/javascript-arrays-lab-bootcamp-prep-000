@@ -33,6 +33,6 @@ function prependKitten(element) {
 }
 
 function removeLastKitten() {
-  something
+  kittens.push();
 }
 }
