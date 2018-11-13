@@ -32,7 +32,4 @@ function prependKitten(element) {
   return preKittySpread;
 }
 
-function removeLastKitten() {
-  kittens.push();
-}
 }
