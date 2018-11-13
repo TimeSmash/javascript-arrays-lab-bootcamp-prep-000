@@ -29,5 +29,10 @@ function appendKitten(element) {
 
 function prependKitten(element) {
   var preKittySpread = [element, ...kittens];
-  return preKittySpread
+  return preKittySpread;
+}
+
+function removeLastKitten() {
+  something
+}
 }
