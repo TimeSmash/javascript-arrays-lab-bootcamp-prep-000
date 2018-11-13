@@ -26,3 +26,8 @@ function appendKitten(element) {
   var appKittySpread = [...kittens, element];
   return appKittySpread;
 }
+
+function prependKitten(element) {
+  var preKittySpread = [element, ...kittens];
+  return preKittySpread
+}
