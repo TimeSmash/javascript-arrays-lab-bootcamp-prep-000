@@ -7,4 +7,4 @@ function destructivelyAppendKitten (element) {
 return appendKitty;
 }
 
-destructivelyPrependKitten
+destructivelyPrependKitten (element) {
