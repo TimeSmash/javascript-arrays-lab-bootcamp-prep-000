@@ -23,5 +23,6 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(element) {
-  var appKittySpread = 
+  var appKittySpread = [...kittens, element];
+  return appKittySpread;
 }
