@@ -31,3 +31,8 @@ function prependKitten(element) {
   var preKittySpread = [element, ...kittens];
   return preKittySpread;
 }
+
+function removeLastKitten() {
+  kittens.push();
+}
+}
