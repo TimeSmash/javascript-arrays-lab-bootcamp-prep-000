@@ -7,6 +7,19 @@ function destructivelyAppendKitten (element) {
 return appendKitty;
 }
 
-destructivelyPrependKitten (element) {
-  var prependKitty = kittens.
+function destructivelyPrependKitten(element) {
+  var prependKitty = kittens.unshift(element);
+  return prependKitty;
 }
+
+function destructivelyRemoveLastKitten
+
+function destructivelyRemoveFirstKitten
+
+appendKitten
+
+prependKitten
+
+removeLastKitten()
+
+removeFirstKitten()
