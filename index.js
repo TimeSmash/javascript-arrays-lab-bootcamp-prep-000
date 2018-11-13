@@ -12,7 +12,9 @@ function destructivelyPrependKitten(element) {
   return prependKitty;
 }
 
-function destructivelyRemoveLastKitten
+function destructivelyRemoveLastKitten()
+var popKitten = kittens.pop();
+return popKitten;
 
 function destructivelyRemoveFirstKitten
 
