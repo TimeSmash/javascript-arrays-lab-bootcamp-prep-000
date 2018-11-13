@@ -1,3 +1,3 @@
-var kittens = [calico, chocolate, black, Salem] 
+var kittens = ["Milo", "Otis", "Garfield"] ;
 
 // Add your functions and code here
