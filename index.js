@@ -18,6 +18,10 @@ return popKitten;
 }
 
 function destructivelyRemoveFirstKitten() {
-  var pushKitten = kittens.push();
+  var pushKitten = kittens.shift();
   return pushKitten;
+}
+
+function appendKitten(element) {
+  var appKittySpread = 
 }
